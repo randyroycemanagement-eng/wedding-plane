@@ -7,6 +7,9 @@ Son objectif est de simplifier la planification d’un mariage en un seul endroi
 ---
 
 ## 🎯 Concept
+
+💌 Avec WEDDINGPLANNER, organisez le mariage de vos rêves, sans stress
+
 Organiser un mariage est souvent un défi : il faut trouver les bons prestataires, gérer le budget, suivre les préparatifs, tout en évitant le stress.  
 **WEDDINGPLANNER** apporte une solution digitale complète pour :
 - **Trouver rapidement des prestataires** selon leur spécialité, emplacement et prix.
@@ -44,3 +47,4 @@ Organiser un mariage est souvent un défi : il faut trouver les bons prestataire
    cd WEDDINGPLANNER
 flutter pub get
 
+README_CI.md
